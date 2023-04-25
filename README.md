@@ -24,16 +24,16 @@
 </div>
 
 ### Main skills:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=ED8B00)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=spring&logoColor=6DB33F)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 
 ### Studying in this moment:
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=4EA94B)&nbsp;
 
 <div align="center">
 <br>
