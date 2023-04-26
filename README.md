@@ -10,6 +10,10 @@
 [![Gabi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabsvitorio&color=C0C0C0&area_color=C0C0C0&title_color=C0C0C0&bg_color=00000000&line=4F4F4F&point=C0C0C0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
+<a href="https://www.linkedin.com/in/gabriellen-vit%C3%B3rio-738222263/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+                   
 <a href="mailto:gaby18vsilva@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
