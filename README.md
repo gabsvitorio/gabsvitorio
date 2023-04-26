@@ -44,7 +44,7 @@
 <div align="center">
 <br>
 <p align="center"><b>Visitors Count</b></p>
-<p align="center"> <img align="center" src="https://profile-counter.glitch.me/{gabsvitorio}/count.svg" /> </p>
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/{gabsvitorio}/count.svg"/> </p>
 <br>
 </div>
 
