@@ -40,6 +40,7 @@
 ### Studying in this moment:
 ![NodeJS](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=4EA94B)&nbsp;
+![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 <div align="center">
 <br>
