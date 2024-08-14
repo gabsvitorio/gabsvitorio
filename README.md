@@ -7,7 +7,7 @@
 <img width="41%" height="195%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsvitorio&layout=compact&hide_border+true&title_color=C0C0C0&text_color=C0C0C0&bg_color=00000000"/>
 </div>
 
-[![Gabi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabsvitorio&color=C0C0C0&area_color=C0C0C0&title_color=C0C0C0&bg_color=00000000&line=4F4F4F&point=C0C0C0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gabi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabsvitorio&color=C0C0C0&area_color=C0C0C0&title_color=C0C0C0&bg_color=00000000&line=4F4F4F&point=C0C0C0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <a href="https://www.linkedin.com/in/gabriellen-vit%C3%B3rio-738222263/" target="_blank">
