@@ -37,7 +37,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 
-### Studying in this moment:
+### Studying:
 ![NodeJS](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=4EA94B)&nbsp;
 ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
