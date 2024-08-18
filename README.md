@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=DCDCDC&size=30&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gabriellen+Vitório;I'm+from+Brazil;Be+welcome!+^^)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=DCDCDC&size=30&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gabi;I'm+from+Brazil;Be+welcome!+^^)](https://git.io/typing-svg)
 
 <div align="center">
 <img width="49%" height="195%" src="https://github-readme-stats.vercel.app/api?username=gabsvitorio&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=4F4F4F&text_color=C0C0C0&bg_color=00000000" alt=Gabriellen Vitório github stats" />
@@ -10,16 +10,10 @@
 [![Gabi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabsvitorio&color=C0C0C0&area_color=C0C0C0&title_color=C0C0C0&bg_color=00000000&line=4F4F4F&point=C0C0C0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<a href="https://www.linkedin.com/in/gabriellen-vit%C3%B3rio-738222263/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<a href="" target="_blank">
                    
 <a href="mailto:gaby18vsilva@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://facebook.com/gabriellen.vitorio/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 <!--
